@@ -1,1 +1,1 @@
-# Test
+Hi I'm Nabir Dehan. I'm interested in coding and web development. I am currently learning web design and app development. I'm looking to collaborate on larger projects in the near future. I can be reached at `nabird@nycstudents.net`
